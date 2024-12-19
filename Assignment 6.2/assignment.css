@@ -1,4 +1,24 @@
+h1{
+    text-align: center;
+}
+
 img {
     max-width: 100%;
     height: auto;
+    padding: 25px;
+    box-sizing: border-box;
+    border-radius: 25px;
   }
+
+  p {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+#b {
+    text-align: center;
+}
+
+#carousel {
+    height: 300px;
+}
