@@ -22,3 +22,26 @@ img {
 #carousel {
     height: 300px;
 }
+
+form {
+    padding: 25px;
+}
+
+a {
+    align: center;
+}
+
+
+#container {
+    position: relative;      /* Set the container to relative positioning */
+    height: 100vh;           /* Full viewport height */
+  }
+  
+  #button {
+ 
+    text-align: center;      /* Centers the content inside the div */
+  }
+  
+  #button a {
+    padding: 10px 20px;      /* Add padding to the button */
+  }
