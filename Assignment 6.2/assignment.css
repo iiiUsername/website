@@ -33,15 +33,15 @@ a {
 
 
 #container {
-    position: relative;      /* Set the container to relative positioning */
-    height: 100vh;           /* Full viewport height */
+    position: relative;      
+    height: 100vh;  
   }
   
   #button {
  
-    text-align: center;      /* Centers the content inside the div */
+    text-align: center;     
   }
   
   #button a {
-    padding: 10px 20px;      /* Add padding to the button */
+    padding: 10px 20px;     
   }
